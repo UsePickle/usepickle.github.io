@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-06T18:21:18+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Advaned Search</title><link href="http://localhost:4000/getting-started/search/" rel="alternate" type="text/html" title="Advaned Search" /><published>2018-05-05T00:00:00+00:00</published><updated>2018-05-05T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/search</id><content type="html" xml:base="http://localhost:4000/getting-started/search/">&lt;p&gt;Example of how to use the powerful search feature to build advanced searches.&lt;/p&gt;
+
+&lt;h2 id=&quot;downloading-search-results&quot;&gt;Downloading Search Results&lt;/h2&gt;
+
+&lt;h2 id=&quot;filtering-searches&quot;&gt;Filtering Searches&lt;/h2&gt;
+
+&lt;h2 id=&quot;sharing-searches&quot;&gt;Sharing Searches&lt;/h2&gt;</content><author><name>Matt Gardner</name></author><summary type="html">Example of how to use the powerful search feature to build advanced searches.</summary></entry><entry><title type="html">Magic Email</title><link href="http://localhost:4000/getting-started/magic-email/" rel="alternate" type="text/html" title="Magic Email" /><published>2018-05-05T00:00:00+00:00</published><updated>2018-05-05T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/magic-email</id><content type="html" xml:base="http://localhost:4000/getting-started/magic-email/">&lt;p&gt;Magic email is a powerful feature that allows you to seamlessly integrate your existing email account with Pickle.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-it&quot;&gt;What is it?&lt;/h2&gt;
+
+&lt;h2 id=&quot;how-to-use-it&quot;&gt;How to use it&lt;/h2&gt;
+
+&lt;h2 id=&quot;advanced-usage&quot;&gt;Advanced Usage&lt;/h2&gt;</content><author><name>Matt Gardner</name></author><summary type="html">Magic email is a powerful feature that allows you to seamlessly integrate your existing email account with Pickle.</summary></entry><entry><title type="html">Changing Account Name</title><link href="http://localhost:4000/account-settings/changing-account-name/" rel="alternate" type="text/html" title="Changing Account Name" /><published>2018-05-05T00:00:00+00:00</published><updated>2018-05-05T00:00:00+00:00</updated><id>http://localhost:4000/account-settings/changing-account-name</id><content type="html" xml:base="http://localhost:4000/account-settings/changing-account-name/">&lt;p&gt;You can change your account/project name at any time in Pickle. We suggest using descriptive names such as your company name, organization name, or project name. It appears in various places in Pickle including the quick switcher (the dropdown in the upper left).&lt;/p&gt;
+
+&lt;h2 id=&quot;1-click-settings&quot;&gt;1. Click Settings&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/account settings/1-arrow.png&quot; alt=&quot;settings link&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-chose-the-account-you-want-to-change&quot;&gt;2. Chose the account you want to change&lt;/h2&gt;
+&lt;p&gt;Choose the account you’d like to change and click on it. &lt;img src=&quot;/images/account settings/2.png&quot; alt=&quot;account link&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-change-it&quot;&gt;3. Change it&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/account settings/3.png&quot; alt=&quot;account settings&quot; /&gt;
+Change the name and click save.&lt;/p&gt;</content><author><name>Matt Gardner</name></author><summary type="html">You can change your account/project name at any time in Pickle. We suggest using descriptive names such as your company name, organization name, or project name. It appears in various places in Pickle including the quick switcher (the dropdown in the upper left).</summary></entry></feed>
