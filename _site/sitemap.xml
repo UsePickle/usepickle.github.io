@@ -17,6 +17,10 @@
 <lastmod>2018-07-29T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/integrations/zapier/</loc>
+<lastmod>2018-07-29T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/faq/</loc>
 </url>
 <url>
@@ -30,5 +34,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/getting-started/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/integrations/</loc>
 </url>
 </urlset>
