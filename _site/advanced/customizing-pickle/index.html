@@ -14,20 +14,20 @@
 		
 
 		<!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>Using Zapier | Pickle CRM</title>
+<title>Customization | Pickle CRM</title>
 <meta name="generator" content="Jekyll v3.7.2" />
-<meta property="og:title" content="Using Zapier" />
+<meta property="og:title" content="Customization" />
 <meta name="author" content="Matt Gardner" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="How to integrate with over 1000 third party services through Zapier" />
-<meta property="og:description" content="How to integrate with over 1000 third party services through Zapier" />
-<link rel="canonical" href="http://localhost:4000/integrations/zapier/" />
-<meta property="og:url" content="http://localhost:4000/integrations/zapier/" />
+<meta name="description" content="How to customize Pickle" />
+<meta property="og:description" content="How to customize Pickle" />
+<link rel="canonical" href="http://localhost:4000/advanced/customizing-pickle/" />
+<meta property="og:url" content="http://localhost:4000/advanced/customizing-pickle/" />
 <meta property="og:site_name" content="Pickle CRM" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2018-07-29T00:00:00+00:00" />
+<meta property="article:published_time" content="2018-07-31T00:00:00+00:00" />
 <script type="application/ld+json">
-{"description":"How to integrate with over 1000 third party services through Zapier","author":{"@type":"Person","name":"Matt Gardner"},"@type":"BlogPosting","url":"http://localhost:4000/integrations/zapier/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/pickle-green-white-text.gif"},"name":"Matt Gardner"},"headline":"Using Zapier","dateModified":"2018-07-29T00:00:00+00:00","datePublished":"2018-07-29T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/integrations/zapier/"},"@context":"http://schema.org"}</script>
+{"description":"How to customize Pickle","author":{"@type":"Person","name":"Matt Gardner"},"@type":"BlogPosting","url":"http://localhost:4000/advanced/customizing-pickle/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/pickle-green-white-text.gif"},"name":"Matt Gardner"},"headline":"Customization","dateModified":"2018-07-31T00:00:00+00:00","datePublished":"2018-07-31T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/advanced/customizing-pickle/"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 		<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Pickle CRM" />
@@ -123,35 +123,58 @@
 		<ul>
 			
 			
-				<li><a href="#what-is-the-pickle-zapier-app">What is the Pickle Zapier App?</a></li>
+				<li><a href="#dashboard-panels">Dashboard Panels</a></li>
 			
-				<li><a href="#zapier-app-requires-and-invitation">Zapier App requires and Invitation</a></li>
+				<li><a href="#integrations-with-other-apps">Integrations with other Apps</a></li>
 			
-				<li><a href="#getting-started-with-zapier">Getting started with Zapier:</a></li>
+				<li><a href="#consultations">Consultations</a></li>
 			
-				<li><a href="#examples">Examples</a></li>
+				<li><a href="#api">API</a></li>
 			
 		</ul>
 	</section>
 	<section class="tutorial-content">
-		<h1>Using Zapier</h1>
+		<h1>Customization</h1>
 
 		
 		
 		<div class="tutorial-main">
-			<p>Pickle has a Zapier app to help integrate and connect with over 1000 third party services. Here’s how to get started</p>
+			<p>One of the more powerful features of Pickle is being able to customize it with various data sources, integrations, and the API.</p>
 
-<h2 id="what-is-the-pickle-zapier-app">What is the Pickle Zapier App?</h2>
-<p>The Pickle Zapier app allows you to connect with over 1000 third party services to integrate with Pickle. The PIckle Zapier App allows you to integrate and automate things from a huge library of apps including Stripe, Dropbox, PayPal, and so much more.  You can view all the other apps and integrations <a href="https://zapier.com/apps" target="_blank">here</a>.</p>
+<h2 id="dashboard-panels">Dashboard Panels</h2>
+<p><img src="/images/dashboard/freelancer-active-projects-proposals-revenue.png" alt="Freelancer Dashboard Panels Example Screenshot" /></p>
 
-<h2 id="zapier-app-requires-and-invitation">Zapier App requires and Invitation</h2>
-<p>If you’re looking around on Zapier, you won’t find the Pickle Zapier App. That’s because it’s invite only. The Pickle Zapier app currently requires an invitation while it’s in beta. To get an invitation, please <a href="mailto:support@picklecrm.com?subject=Pickle Zapier App invite">click here to send us an email</a> or <a href="https://zapier.com/platform/public-invite/3588/6f2cd999810cbc79d9a2d56100d18bd1/">click here to join the beta</a>.</p>
+<p>Dashboard panels are the little boxes you see on the overview page. They can show anything from the internet such as:</p>
 
-<h2 id="getting-started-with-zapier">Getting started with Zapier:</h2>
-<p>Once you’ve received and hav accepted your Pickle Zapier app invitaion, you’ll be able to start using Zapier with Pickle.</p>
+<ul>
+  <li>The number of website visitors.</li>
+  <li>Quantity of people who have RSVPd to your event.</li>
+  <li>Revenue over the last week.</li>
+  <li>New Proposals.</li>
+  <li>Deals won/lost.</li>
+  <li>New signups in your App.</li>
+  <li>The amount of people in your Pickle account that are match a certain set of data.</li>
+  <li>And so much more.</li>
+</ul>
 
-<h2 id="examples">Examples</h2>
-<p>Coming soon.</p>
+<h2 id="integrations-with-other-apps">Integrations with other Apps</h2>
+<p>One of the best ways to customize Pickle is through our integrations. Our Zapier app allows you to integrate with tons of various apps and services. Some examples include, but are not limited to:</p>
+
+<ul>
+  <li>Track when payments are made and attach them to a contact. <img src="/images/zapier/stripe-customer-created-webhook-pickle.png" alt="" /></li>
+  <li>When someone fills out and submits a form, receive a notification and attach the form to that contact in Pickle. <img src="/images/zapier/track-signups-to-newsletter-pickle.png" alt="" /></li>
+  <li>Using the API, store any data for a contact. Personally, we use this to know when a customer has signed up, upgraded, subscribed to our newsletter, etc.</li>
+</ul>
+
+<h2 id="consultations">Consultations</h2>
+
+<p>Our team is available for consultations to help you get setup. We offer consultation and custom development at reasonable industry rates. If you are looking to chat with one of us please don’t hesitate to <a href="mailto:support@picklecrm.com?subject=Pickle Customization Consultation">send us an email</a>.</p>
+
+<p>We’re always happy to help whether you want to be pointed in the right direction or want to discuss custom development, we’re only a click away!</p>
+
+<h2 id="api">API</h2>
+
+<p>If you’re interested in using our API, <a href="mailto:support@picklecrm.com?subject=Pickle API">please get in touch.</a></p>
 
 		</div>
 		<div class="tutorial-share">
@@ -180,7 +203,7 @@
 		<ul class="listing">
 	
 		<li >
-			<a href="/advanced/customizing-pickle/">
+			<a href="/integrations/zapier/">
 				<div class="icon">
 		<svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 			<path d="M6 2c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6H6zm7 7V3.5L18.5 9H13z"/>
@@ -189,8 +212,8 @@
 </div>
 				<article>
 					<div>
-						<h3>Customization</h3>
-						<p class="description">How to customize Pickle</p>
+						<h3>Using Zapier</h3>
+						<p class="description">How to integrate with over 1000 third party services through Zapier</p>
 					</div>
 				</article>
 			</a>
@@ -288,19 +311,19 @@
 		<h2>Share</h2>
 		<p>Share this tutorial with your community.</p>
 		<ul>
-			<li><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A4000%2Fintegrations%2Fzapier%2F">
+			<li><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A4000%2Fadvanced%2Fcustomizing-pickle%2F">
 		<svg class="twitter" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M22.46,6C21.69,6.35 20.86,6.58 20,6.69C20.88,6.16 21.56,5.32 21.88,4.31C21.05,4.81 20.13,5.16 19.16,5.36C18.37,4.5 17.26,4 16,4C13.65,4 11.73,5.92 11.73,8.29C11.73,8.63 11.77,8.96 11.84,9.27C8.28,9.09 5.11,7.38 3,4.79C2.63,5.42 2.42,6.16 2.42,6.94C2.42,8.43 3.17,9.75 4.33,10.5C3.62,10.5 2.96,10.3 2.38,10C2.38,10 2.38,10 2.38,10.03C2.38,12.11 3.86,13.85 5.82,14.24C5.46,14.34 5.08,14.39 4.69,14.39C4.42,14.39 4.15,14.36 3.89,14.31C4.43,16 6,17.26 7.89,17.29C6.43,18.45 4.58,19.13 2.56,19.13C2.22,19.13 1.88,19.11 1.54,19.07C3.44,20.29 5.7,21 8.12,21C16,21 20.33,14.46 20.33,8.79C20.33,8.6 20.33,8.42 20.32,8.23C21.16,7.63 21.88,6.87 22.46,6Z" /></svg>
 	
  Twitter</a></li>
-			<li><a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fintegrations%2Fzapier%2F">
+			<li><a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fadvanced%2Fcustomizing-pickle%2F">
 		<svg class="facebook" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="15.8 15.8 25 25"><path d="M32.8 24.7h-3.2v-2.1c0-0.8 0.5-1 0.9-1s2.3 0 2.3 0v-3.5l-3.1 0c-3.5 0-4.3 2.6-4.3 4.3v2.3h-2v3.6h2c0 4.6 0 10.2 0 10.2h4.2c0 0 0-5.6 0-10.2h2.8L32.8 24.7z"/></svg>
 	
  Facebook</a></li>
-			<li><a class="google-plus" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fintegrations%2Fzapier%2F">
+			<li><a class="google-plus" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fadvanced%2Fcustomizing-pickle%2F">
 		<svg class="google-plus" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M23,11H21V9H19V11H17V13H19V15H21V13H23M8,11V13.4H12C11.8,14.4 10.8,16.4 8,16.4C5.6,16.4 3.7,14.4 3.7,12C3.7,9.6 5.6,7.6 8,7.6C9.4,7.6 10.3,8.2 10.8,8.7L12.7,6.9C11.5,5.7 9.9,5 8,5C4.1,5 1,8.1 1,12C1,15.9 4.1,19 8,19C12,19 14.7,16.2 14.7,12.2C14.7,11.7 14.7,11.4 14.6,11H8Z" /></svg>
 	
  Google+</a></li>
-			<li><a class="hacker-news" target="_blank" href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Flocalhost%3A4000%2Fintegrations%2Fzapier%2F&t=Using%20Zapier">
+			<li><a class="hacker-news" target="_blank" href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Flocalhost%3A4000%2Fadvanced%2Fcustomizing-pickle%2F&t=Customization">
 		<svg class="hacker-news" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18.8 3.3c-0.4 0.8-5.6 11.1-5.6 11.2 0 2 0 6.2 0 6.2 -0.1 0-2.2 0-2.3 0 0 0 0-5.9 0-6.2 0 0-5.5-10.9-5.6-11.1C5.3 3.3 5.3 3.3 5.3 3.3 5.3 3.3 5.3 3.3 5.3 3.3c0 0 0 0 0.1 0 0.9 0 1.7 0 2.6 0 0 0 0 0 0 0.1 0.1 0.1 4 8.3 4.1 8.3 0 0 4.2-8.3 4.3-8.4 0.8 0 1.6 0 2.4 0 0 0 0 0 0 0C18.8 3.3 18.8 3.3 18.8 3.3z"/></svg>
 	
  Hacker News</a></li>

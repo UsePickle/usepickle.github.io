@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-30T05:56:44+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Using Zapier</title><link href="http://localhost:4000/integrations/zapier/" rel="alternate" type="text/html" title="Using Zapier" /><published>2018-07-29T00:00:00+00:00</published><updated>2018-07-29T00:00:00+00:00</updated><id>http://localhost:4000/integrations/zapier</id><content type="html" xml:base="http://localhost:4000/integrations/zapier/">&lt;p&gt;Pickle has a Zapier app to help integrate and connect with over 1000 third party services. Here’s how to get started&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-31T15:34:33+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Customization</title><link href="http://localhost:4000/advanced/customizing-pickle/" rel="alternate" type="text/html" title="Customization" /><published>2018-07-31T00:00:00+00:00</published><updated>2018-07-31T00:00:00+00:00</updated><id>http://localhost:4000/advanced/customizing-pickle</id><content type="html" xml:base="http://localhost:4000/advanced/customizing-pickle/">&lt;p&gt;One of the more powerful features of Pickle is being able to customize it with various data sources, integrations, and the API.&lt;/p&gt;
+
+&lt;h2 id=&quot;dashboard-panels&quot;&gt;Dashboard Panels&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/dashboard/freelancer-active-projects-proposals-revenue.png&quot; alt=&quot;Freelancer Dashboard Panels Example Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dashboard panels are the little boxes you see on the overview page. They can show anything from the internet such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The number of website visitors.&lt;/li&gt;
+  &lt;li&gt;Quantity of people who have RSVPd to your event.&lt;/li&gt;
+  &lt;li&gt;Revenue over the last week.&lt;/li&gt;
+  &lt;li&gt;New Proposals.&lt;/li&gt;
+  &lt;li&gt;Deals won/lost.&lt;/li&gt;
+  &lt;li&gt;New signups in your App.&lt;/li&gt;
+  &lt;li&gt;The amount of people in your Pickle account that are match a certain set of data.&lt;/li&gt;
+  &lt;li&gt;And so much more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;integrations-with-other-apps&quot;&gt;Integrations with other Apps&lt;/h2&gt;
+&lt;p&gt;One of the best ways to customize Pickle is through our integrations. Our Zapier app allows you to integrate with tons of various apps and services. Some examples include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Track when payments are made and attach them to a contact. &lt;img src=&quot;/images/zapier/stripe-customer-created-webhook-pickle.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;When someone fills out and submits a form, receive a notification and attach the form to that contact in Pickle. &lt;img src=&quot;/images/zapier/track-signups-to-newsletter-pickle.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Using the API, store any data for a contact. Personally, we use this to know when a customer has signed up, upgraded, subscribed to our newsletter, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;consultations&quot;&gt;Consultations&lt;/h2&gt;
+
+&lt;p&gt;Our team is available for consultations to help you get setup. We offer consultation and custom development at reasonable industry rates. If you are looking to chat with one of us please don’t hesitate to &lt;a href=&quot;mailto:support@picklecrm.com?subject=Pickle Customization Consultation&quot;&gt;send us an email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’re always happy to help whether you want to be pointed in the right direction or want to discuss custom development, we’re only a click away!&lt;/p&gt;
+
+&lt;h2 id=&quot;api&quot;&gt;API&lt;/h2&gt;
+
+&lt;p&gt;If you’re interested in using our API, &lt;a href=&quot;mailto:support@picklecrm.com?subject=Pickle API&quot;&gt;please get in touch.&lt;/a&gt;&lt;/p&gt;</content><author><name>Matt Gardner</name></author><summary type="html">One of the more powerful features of Pickle is being able to customize it with various data sources, integrations, and the API.</summary></entry><entry><title type="html">Using Zapier</title><link href="http://localhost:4000/integrations/zapier/" rel="alternate" type="text/html" title="Using Zapier" /><published>2018-07-29T00:00:00+00:00</published><updated>2018-07-29T00:00:00+00:00</updated><id>http://localhost:4000/integrations/zapier</id><content type="html" xml:base="http://localhost:4000/integrations/zapier/">&lt;p&gt;Pickle has a Zapier app to help integrate and connect with over 1000 third party services. Here’s how to get started&lt;/p&gt;
 
 &lt;h2 id=&quot;what-is-the-pickle-zapier-app&quot;&gt;What is the Pickle Zapier App?&lt;/h2&gt;
 &lt;p&gt;The Pickle Zapier app allows you to connect with over 1000 third party services to integrate with Pickle. The PIckle Zapier App allows you to integrate and automate things from a huge library of apps including Stripe, Dropbox, PayPal, and so much more.  You can view all the other apps and integrations &lt;a href=&quot;https://zapier.com/apps&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
