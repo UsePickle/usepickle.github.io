@@ -23,6 +23,8 @@ Dashboard panels are the little boxes you see on the overview page. They can sho
 - The amount of people in your Pickle account that are match a certain set of data.
 - And so much more. 
 
+[Here's a blog post](https://igotablog.com/customizable-dashboard-pickle/){:target="_blank"} demoing some examples of Dashboards in Pickle.
+
 ## Integrations with other Apps
 One of the best ways to customize Pickle is through our integrations. Our Zapier app allows you to integrate with tons of various apps and services. Some examples include, but are not limited to:
 
