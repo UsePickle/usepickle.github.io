@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-01T23:06:04+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Custom Fields</title><link href="http://localhost:4000/getting-started/custom-fields-help/" rel="alternate" type="text/html" title="Custom Fields" /><published>2018-08-01T00:00:00+00:00</published><updated>2018-08-01T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/custom-fields-help</id><content type="html" xml:base="http://localhost:4000/getting-started/custom-fields-help/">&lt;p&gt;Custom fields allow you to customize your usage of Pickle for the contacts in an Account. You can store anything for a contact with Custom Fields.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-01T23:16:31+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Custom Fields</title><link href="http://localhost:4000/getting-started/custom-fields-help/" rel="alternate" type="text/html" title="Custom Fields" /><published>2018-08-01T00:00:00+00:00</published><updated>2018-08-01T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/custom-fields-help</id><content type="html" xml:base="http://localhost:4000/getting-started/custom-fields-help/">&lt;p&gt;Custom fields allow you to customize your usage of Pickle for the contacts in an Account. You can store anything for a contact with Custom Fields.&lt;/p&gt;
 
 &lt;h2 id=&quot;creating-a-custom-field&quot;&gt;Creating a custom field&lt;/h2&gt;
 
@@ -8,7 +8,7 @@
   &lt;li&gt;Scroll to the bottom of the page. There you will be able to add custom fields. Click add a custom field and you’ll see a form like the following:&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/custom fields/create.png&quot; alt=&quot;Create Custom Field Form&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/custom-fields/create.png&quot; alt=&quot;Create Custom Field Form&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;how-to-use-custom-fields&quot;&gt;How to use Custom Fields&lt;/h2&gt;
 
@@ -20,7 +20,7 @@
 
 &lt;p&gt;With custom fields you can store anything such as their job title, point of contact, birthday, anniversay, and more. Here’s an example of some custom fields from one of our accounts:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/custom fields/example.png&quot; alt=&quot;custom field example screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/custom-fields/example.png&quot; alt=&quot;custom field example screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;searching-on-custom-fields&quot;&gt;Searching on Custom Fields&lt;/h2&gt;
 
