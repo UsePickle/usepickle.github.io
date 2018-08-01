@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-01T22:54:23+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Timelines</title><link href="http://localhost:4000/examples/timelines/" rel="alternate" type="text/html" title="Timelines" /><published>2018-07-31T00:00:00+00:00</published><updated>2018-07-31T00:00:00+00:00</updated><id>http://localhost:4000/examples/timelines</id><content type="html" xml:base="http://localhost:4000/examples/timelines/">&lt;p&gt;Timelines keep your clients in the loop and are very useful and transparent. Many people use them for Real Estate, but you can also use them for anything involving customers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-01T22:57:31+00:00</updated><id>http://localhost:4000/</id><title type="html">Pickle CRM</title><subtitle>Knowledge for Pickle CRM.</subtitle><author><name>Matt Gardner</name></author><entry><title type="html">Custom Fields</title><link href="http://localhost:4000/getting-started/custom-fields/" rel="alternate" type="text/html" title="Custom Fields" /><published>2018-08-01T00:00:00+00:00</published><updated>2018-08-01T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/custom-fields</id><content type="html" xml:base="http://localhost:4000/getting-started/custom-fields/">&lt;p&gt;Custom fields allow you to customize your usage of Pickle for the contacts in an Account. You can store anything for a contact with Custom Fields.&lt;/p&gt;
+
+&lt;h2 id=&quot;creating-a-custom-field&quot;&gt;Creating a custom field&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/custom fields/create.png&quot; alt=&quot;Create Custom Field Form&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-custom-fields&quot;&gt;How to use Custom Fields&lt;/h2&gt;
+
+&lt;p&gt;To use a custom field, simply visit a contat and click edit. Then, at the bottom of the page, you’ll see all of your custom fields.&lt;/p&gt;
+
+&lt;p&gt;If you don’t have any custom fields, you can create them.&lt;/p&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+
+&lt;p&gt;With custom fields you can store anything such as their job title, point of contact, birthday, anniversay, and more. Here’s an example of some custom fields from one of our accounts:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/custom fields/example.png&quot; alt=&quot;custom field example screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;searching-on-custom-fields&quot;&gt;Searching on Custom Fields&lt;/h2&gt;
+
+&lt;p&gt;One of the most powerful use cases of custom fields is search. With search, you can do things like find a list of customers who’s favorite hockey team is the Washington Capitals.&lt;/p&gt;
+
+&lt;p&gt;For more examples, &lt;a href=&quot;/getting-started/search&quot;&gt;see search&lt;/a&gt;.&lt;/p&gt;</content><author><name>Matt Gardner</name></author><summary type="html">Custom fields allow you to customize your usage of Pickle for the contacts in an Account. You can store anything for a contact with Custom Fields.</summary></entry><entry><title type="html">Timelines</title><link href="http://localhost:4000/examples/timelines/" rel="alternate" type="text/html" title="Timelines" /><published>2018-07-31T00:00:00+00:00</published><updated>2018-07-31T00:00:00+00:00</updated><id>http://localhost:4000/examples/timelines</id><content type="html" xml:base="http://localhost:4000/examples/timelines/">&lt;p&gt;Timelines keep your clients in the loop and are very useful and transparent. Many people use them for Real Estate, but you can also use them for anything involving customers.&lt;/p&gt;
 
 &lt;p&gt;Some examples of how others are using Timelines:&lt;/p&gt;
 
@@ -68,29 +90,7 @@
   &lt;li&gt;Visit your &lt;a href=&quot;https://app.picklecrm.com/settings&quot; target=&quot;_blank&quot;&gt;Settings&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Click on Users&lt;/li&gt;
   &lt;li&gt;Type a colleague’s email into the field and click invite. They’ll receive an invitation email.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Matt Gardner</name></author><summary type="html">Inviting more users or employees to your account is very easy. Here’s how to do this in a few steps:</summary></entry><entry><title type="html">Custom Fields</title><link href="http://localhost:4000/getting-started/custom-fields/" rel="alternate" type="text/html" title="Custom Fields" /><published>2018-05-05T00:00:00+00:00</published><updated>2018-05-05T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/custom-fields</id><content type="html" xml:base="http://localhost:4000/getting-started/custom-fields/">&lt;p&gt;Custom fields allow you to customize your usage of Pickle for the contacts in an Account. You can store anything for a contact with Custom Fields.&lt;/p&gt;
-
-&lt;h2 id=&quot;creating-a-custom-field&quot;&gt;Creating a custom field&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/custom fields/create.png&quot; alt=&quot;Create Custom Field Form&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-use-custom-fields&quot;&gt;How to use Custom Fields&lt;/h2&gt;
-
-&lt;p&gt;To use a custom field, simply visit a contat and click edit. Then, at the bottom of the page, you’ll see all of your custom fields.&lt;/p&gt;
-
-&lt;p&gt;If you don’t have any custom fields, you can create them.&lt;/p&gt;
-
-&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
-
-&lt;p&gt;With custom fields you can store anything such as their job title, point of contact, birthday, anniversay, and more. Here’s an example of some custom fields from one of our accounts:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/custom fields/example.png&quot; alt=&quot;custom field example screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;searching-on-custom-fields&quot;&gt;Searching on Custom Fields&lt;/h2&gt;
-
-&lt;p&gt;One of the most powerful use cases of custom fields is search. With search, you can do things like find a list of customers who’s favorite hockey team is the Washington Capitals.&lt;/p&gt;
-
-&lt;p&gt;For more examples, &lt;a href=&quot;/getting-started/search&quot;&gt;see search&lt;/a&gt;.&lt;/p&gt;</content><author><name>Matt Gardner</name></author><summary type="html">Custom fields allow you to customize your usage of Pickle for the contacts in an Account. You can store anything for a contact with Custom Fields.</summary></entry><entry><title type="html">Advanced Search</title><link href="http://localhost:4000/getting-started/search/" rel="alternate" type="text/html" title="Advanced Search" /><published>2018-05-05T00:00:00+00:00</published><updated>2018-05-05T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/search</id><content type="html" xml:base="http://localhost:4000/getting-started/search/">&lt;p&gt;Example of how to use the powerful search feature to build advanced searches.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Matt Gardner</name></author><summary type="html">Inviting more users or employees to your account is very easy. Here’s how to do this in a few steps:</summary></entry><entry><title type="html">Advanced Search</title><link href="http://localhost:4000/getting-started/search/" rel="alternate" type="text/html" title="Advanced Search" /><published>2018-05-05T00:00:00+00:00</published><updated>2018-05-05T00:00:00+00:00</updated><id>http://localhost:4000/getting-started/search</id><content type="html" xml:base="http://localhost:4000/getting-started/search/">&lt;p&gt;Example of how to use the powerful search feature to build advanced searches.&lt;/p&gt;
 
 &lt;h2 id=&quot;downloading-search-results&quot;&gt;Downloading Search Results&lt;/h2&gt;
 
