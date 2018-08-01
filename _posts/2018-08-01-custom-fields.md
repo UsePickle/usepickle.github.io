@@ -10,6 +10,10 @@ Custom fields allow you to customize your usage of Pickle for the contacts in an
 
 ## Creating a custom field
 
+1. Click a contact
+2. Click edit
+3. Scroll to the bottom of the page. There you will be able to add custom fields. Click add a custom field and you'll see a form like the following:
+
 ![Create Custom Field Form](/images/custom fields/create.png)
 
 
