@@ -24,7 +24,9 @@ Custom fields allow you to customize your usage of Pickle for the contacts in an
 
 To use a custom field, simply visit a contat and click edit. Then, at the bottom of the page, you'll see all of your custom fields. 
 
-If you don't have any custom fields, you can create them.
+If you don't have any custom fields, you can create them. Custom fields are great for filtering contacts using search, remembering various pieces of information about someone and much more.
+
+Custom fields sort of act like a spreadsheet. If you had a list of contacts in a spreadsheet, the custom fields would be various column names. 
 
 
 
