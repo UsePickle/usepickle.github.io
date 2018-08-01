@@ -15,7 +15,7 @@ Custom fields allow you to customize your usage of Pickle for the contacts in an
 2. Click edit
 3. Scroll to the bottom of the page. There you will be able to add custom fields. Click add a custom field and you'll see a form like the following:
 
-![Create Custom Field Form](/images/custom-fields/create.png)
+![Create Custom Field Form](/images/custom-fields/creating.png)
 
 
 
@@ -34,7 +34,7 @@ Custom fields sort of act like a spreadsheet. If you had a list of contacts in a
 
 With custom fields you can store anything such as their job title, point of contact, birthday, anniversay, and more. Here's an example of some custom fields from one of our accounts: 
 
-![custom field example screenshot](/images/custom-fields/example.png)
+![custom field example screenshot](/images/custom-fields/examples.png)
 
 
 
